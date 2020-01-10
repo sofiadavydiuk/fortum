@@ -1,0 +1,30 @@
+.elevator {
+  box-sizing: border-box;
+  height: 100px;
+  margin: 0 20px;
+  position: relative;
+  text-align: left;
+  transition: 5s top linear;
+  white-space: nowrap;
+}
+
+.elevator.green {
+  background-color: #008000;
+}
+
+.elevator.yellow {
+  background: #FFD100;
+}
+
+.elevator td {
+  padding: 0 5px;
+}
+
+.elevator .name {
+  text-align: center;
+}
+
+.elevator .title {
+  font-weight: 300;
+  text-align: left;
+}

@@ -1,0 +1,35 @@
+{
+	"elevators": [
+		{
+			"id": "Elevator-1",
+			"available": true,
+			"currentFloor": 0,
+			"destinationFloor": 0,
+			"peopleAmount": 0
+		}, {
+			"id": "Elevator-2",
+			"available": true,
+			"currentFloor": 0,
+			"destinationFloor": 0,
+			"peopleAmount": 0
+		}, {
+			"id": "Elevator-3",
+			"available": true,
+			"currentFloor": 0,
+			"destinationFloor": 0,
+			"peopleAmount": 0
+		}, {
+			"id": "Elevator-4",
+			"available": true,
+			"currentFloor": 0,
+			"destinationFloor": 0,
+			"peopleAmount": 0
+		}, {
+			"id": "Elevator-5",
+			"available": true,
+			"currentFloor": 0,
+			"destinationFloor": 0,
+			"peopleAmount": 0
+		}
+	]
+}
