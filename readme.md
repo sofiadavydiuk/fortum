@@ -13,7 +13,9 @@ Click **Start Elevators Movement** button to init the application.
 
 The application imitates the movement process of elevators. There is a list of the building floors on the left side, the elevators are moving along the floors.
 
-The movement process is fully random (see initElevatorMovement() in Main.js). 
+The movement process is fully random (see initElevatorsMovement() in Main.js).
+
+There is a randomized event that can break an elevator. Click on fix button to repair. 
 
 The initial data for the elevators is created in elevators.json file.
 

@@ -8,6 +8,10 @@
   white-space: nowrap;
 }
 
+.elevator.red {
+  background-color: #FF131F;
+}
+
 .elevator.green {
   background-color: #008000;
 }
@@ -27,4 +31,14 @@
 .elevator .title {
   font-weight: 300;
   text-align: left;
+}
+
+.elevator .button-wrapper {
+  text-align: center;
+  padding: 5px 15px;
+}
+
+.elevator button {
+  font-size: 14px;
+  padding: 5px 10px;
 }
